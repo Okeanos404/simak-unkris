@@ -82,15 +82,15 @@ Pastikan Anda telah menginstal:
 
 Berikut beberapa tampilan dari aplikasi (ganti dengan screenshot asli proyek Anda):
 
-| Dashboard Admin | Halaman Mahasiswa |
+| Dashboard Mahasiwa | Halaman Jadwal |
 | :---: | :---: |
 | ![Dashboard Mahasiswa](src/assets/dashboard-page.png) | ![Halaman Jadwal](src/assets/jadwal-page.png) |
 
-| Input Nilai | Laporan KHS |
+| Laporan Nilai | Laporan KRS |
 | :---: | :---: |
 | ![Laporan Nilai](src/assets/nilai-page.png) | ![KRS](src/assets/krs-page.png) |
 
-> **Catatan:** Simpan screenshot Anda di folder `src/assets/` (atau buat subfolder `images`) dan sesuaikan path di atas.
+
 
 ## 🧪 Tentang Data Dummy
 
