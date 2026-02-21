@@ -7,7 +7,6 @@
 ![Status](https://img.shields.io/badge/Status-Pengembangan%20Frontend%20(Mock%20Data)-brightgreen)
 
 ![Preview Aplikasi](src/assets/login-page.png)  
-*(Ganti dengan screenshot halaman utama/login jika ada)*
 
 ## 📋 Tentang Proyek
 
