@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-gray-100;
+  }
+}
+
+/* Animasi untuk button to top */
+@keyframes bounce-subtle {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+.animate-bounce-subtle {
+  animation: bounce-subtle 2s infinite;
+}
+
+/* Responsive untuk mobile */
+@media (max-width: 640px) {
+  .fixed.bottom-6.right-6 {
+    bottom: 20px;
+    right: 20px;
+  }
+  
+  button[aria-label="Scroll to top"] {
+    width: 45px !important;
+    height: 45px !important;
+  }
+  
+  button[aria-label="Scroll to top"] svg {
+    width: 24px !important;
+    height: 24px !important;
+  }
+}
